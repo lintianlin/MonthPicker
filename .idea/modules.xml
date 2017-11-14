@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MonthPicker.iml" filepath="$PROJECT_DIR$/MonthPicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monthpicker/monthpicker.iml" filepath="$PROJECT_DIR$/monthpicker/monthpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monthpicker/monthpicker-monthpicker.iml" filepath="$PROJECT_DIR$/monthpicker/monthpicker-monthpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace3-monthpicker.iml" filepath="$PROJECT_DIR$/workspace3-monthpicker.iml" />
     </modules>
   </component>
 </project>
