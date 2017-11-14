@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/padding"
+    android:layout_marginStart="@dimen/padding"
+    android:layout_marginTop="@dimen/padding"
+    android:background="@drawable/bg_date_month_select"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_year_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingEnd="30dp"
+            android:paddingStart="20dp"
+            android:src="@mipmap/icon_month_right_arrow" />
+
+        <TextView
+            android:id="@+id/tv_year"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2017年"
+            android:textColor="@color/colorBlue" />
+
+        <ImageView
+            android:id="@+id/iv_year_add"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingEnd="20dp"
+            android:paddingStart="30dp"
+            android:src="@mipmap/icon_month_left_arrow" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding" />
+
+</LinearLayout>
+
