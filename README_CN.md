@@ -10,7 +10,7 @@ MonthPicker
 ===========
 STYLE_ERROR
 <div align=center><img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif"/></div>   
-![image](https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif) 
+
 
 ## Gradle 
 		allprojects {
@@ -59,7 +59,7 @@ STYLE_ERROR
 
  
  # License
-    Copyright 2017 AbbyJM
+    Copyright 2017 SinFeeLoo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
