@@ -9,7 +9,6 @@ It is customizable and easy to use.You can select month of year.
   
 ScreenShot
 ===========
-STYLE_ERROR
 <div align=center><img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif"/></div>   
 
   
