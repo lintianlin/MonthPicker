@@ -1,18 +1,16 @@
-[中文版](README_CN.md) | **English** </br>
+[English](https://github.com/lintianlin/MonthPicker) | **中文版** </br>
 MonthPicker
 ==========
-    A simple month selection view.
-
-Introduction
+    一个简单的月份选择控件
+简介
 ============
-It is customizable and easy to use.You can select month of year.
+可以很方便直观的选择某一年中的月份
   
-ScreenShot
+截图
 ===========
 STYLE_ERROR
 <div align=center><img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif"/></div>   
-![image](https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif)
-  
+![image](https://github.com/lintianlin/MonthPicker/blob/master/Gif/monthpicker2.gif) 
 
 ## Gradle 
 		allprojects {
@@ -25,9 +23,10 @@ STYLE_ERROR
 		dependencies{
 			compile 'com.github.lintianlin:MonthPicker:v1.0.1'
 		 }
-
-## Usage
-	<?xml version="1.0" encoding="utf-8"?>
+ 
+      
+## 用法
+      <?xml version="1.0" encoding="utf-8"?>
 	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     	android:layout_width="match_parent"
     	android:layout_height="match_parent">
@@ -58,8 +57,8 @@ STYLE_ERROR
   
     
 
- ## License
-
+ 
+ # License
     Copyright 2017 AbbyJM
 
     Licensed under the Apache License, Version 2.0 (the "License");
